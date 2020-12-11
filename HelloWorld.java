@@ -5,8 +5,5 @@ public class HelloWorld {
 		System.out.println("Add one more print");
 	}
 }
-//Test two for squash
-//commit2
-//commit3
-//this is a comment
-//comment after merge
+//test one
+
