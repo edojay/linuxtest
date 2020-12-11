@@ -7,3 +7,4 @@ public class HelloWorld {
 }
 //Test two for squash
 //commit2
+//commit3
