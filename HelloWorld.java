@@ -8,3 +8,4 @@ public class HelloWorld {
 //Test two for squash
 //commit2
 //commit3
+//this is a comment
