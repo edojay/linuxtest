@@ -5,8 +5,5 @@ public class HelloWorld {
 		System.out.println("Add one more print");
 	}
 }
-//test one
 //commit1 from master
-//commit1
-//commit2
 
