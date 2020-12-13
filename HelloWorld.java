@@ -7,5 +7,8 @@ public class HelloWorld {
 }
 //commit1 from master
 //commit2 from master
+//commit1 from branch
+//commit2 from branch
+//commit3 from branch
 //commit3 from master
 //commit4 from master
