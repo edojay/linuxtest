@@ -4,6 +4,7 @@ master3
 branch1
 master2
 branch2
+branch3
 
 public class HelloWorld {
 	public static void main(String[] args) {
