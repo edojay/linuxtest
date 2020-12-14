@@ -3,6 +3,7 @@ master2
 master3
 branch1
 master2
+branch1
 branch2
 branch3
 
