@@ -3,6 +3,8 @@ master2
 master3
 branch1
 branch1 push
+master2
+master2 push
 
 public class HelloWorld {
 	public static void main(String[] args) {
