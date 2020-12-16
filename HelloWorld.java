@@ -1,9 +1,4 @@
-master1
-master2
-master3
-master4
-branch1
-branch2
+m1
 
 public class HelloWorld {
 	public static void main(String[] args) {
