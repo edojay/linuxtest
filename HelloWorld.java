@@ -1,5 +1,6 @@
 m1
 m2
+b1
 
 public class HelloWorld {
 	public static void main(String[] args) {
