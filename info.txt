@@ -1,0 +1,1 @@
+Måste skriva sudo framför varje kommando, tex: sudo git status, sudo java HelloWorld, sudo javac HelloWordl.java (för att skapa HelloWorld.class)
